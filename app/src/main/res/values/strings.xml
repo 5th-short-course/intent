@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyFirstApp</string>
+    <string name="Signup_label">Sign up</string>
+
 </resources>
