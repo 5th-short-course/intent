@@ -13,10 +13,10 @@ public class SingupActivity extends AppCompatActivity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_signup);
 
-        TextView textView=findViewById(R.id.textView2);
+        /*TextView textView=findViewById(R.id.textView2);
         String signup= getResources().getString(R.string.Signup_label);
         textView.setText(signup);
-        getResources().getDrawable(R.drawable.ic_launcher);
+        getResources().getDrawable(R.drawable.ic_launcher);*/
 
     }
 }
