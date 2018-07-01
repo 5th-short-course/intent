@@ -18,7 +18,6 @@ public class SendActivity extends AppCompatActivity {
         if(intent!=null){
             String message =intent.getStringExtra("message");
             tvMessage.setText(message);
-
         }
     }
 }
